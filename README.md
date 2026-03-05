@@ -43,7 +43,7 @@ Prepare your data: Ensure your input data files (e.g., count matrices, metabolit
 Run the scripts: Open and execute the R scripts in RStudio or via the R command line. It is advisable to run them in the logical order of analysis.
 
 📊 Data
-The raw and processed data supporting this study (e.g., RNA-seq fastq files, metabolomic spectral data) are likely deposited in a public repository (e.g., GEO, MetaboLights). Please check the paper or后续的补充材料 for accession numbers.
+The raw and processed data supporting this study (e.g., RNA-seq fastq files, metabolomic spectral data) are requested from corresponding author.
 
 Note: For now, input data formats are as expected by the provided R scripts.
 
